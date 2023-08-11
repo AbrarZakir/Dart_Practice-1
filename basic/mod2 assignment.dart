@@ -1,4 +1,3 @@
-
 void main() {
   List <int> given_list = [85, 92, 78, 65, 88, 72];
   int sum = 0, count = 0, mark = 0;
